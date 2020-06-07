@@ -14,7 +14,7 @@
     "deploy": "yarn build && gh-pages -b gh-pages -d dist"
   },
   "dependencies": {
-    "firebase": "^4.9.0",
+    "firebase": "^7.14.4",
     "gh-pages": "^1.1.0",
     "sweetalert": "^2.1.0",
     "typed.js": "^2.0.6",
